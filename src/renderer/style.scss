@@ -1,0 +1,10 @@
+
+.herder {
+  -webkit-user-select: none;
+  -webkit-app-region: drag;
+}
+input,
+button,
+.svg-icon {
+  -webkit-app-region: no-drag;
+}
